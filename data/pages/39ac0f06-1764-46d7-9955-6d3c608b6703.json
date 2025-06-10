@@ -3,10 +3,10 @@
   "created_at": "2025-06-10T14:04:59.236Z",
   "created_by": "trentwintermeier",
   "title": "SpokenWeb Pedagogy Collection: Sample Annotation Project",
-  "updated_at": "2025-06-10T14:14:19.655Z",
+  "updated_at": "2025-06-10T14:14:31.045Z",
   "updated_by": "trentwintermeier",
   "autogenerate": {
-    "enabled": false,
+    "enabled": true,
     "type": "home"
   }
 }
