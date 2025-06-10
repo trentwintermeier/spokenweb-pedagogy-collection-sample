@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "trentwintermeier",
+    "is_private": false,
+    "title": "SpokenWeb Pedagogy Collection: Sample Annotation Project",
+    "description": "AVAnnotate, an application and workflow designed by Dr. Tanya Clement and Brumfield Labs, and Performant Solutions, allows users to build digital exhibits of annotated audiovisual artifacts. This project serves as an example of an AVAnnotate project that can be used in the first-year writing classroom. ",
+    "language": "en",
+    "slug": "spokenweb-pedagogy-collection-sample",
+    "creator": "trentwintermeier",
+    "authors": "Tanya Clement, Sam Turner, Trent Wintermeier",
+    "media_player": "avannotate",
+    "auto_populate_home_page": false,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-06-10T14:04:59.209Z",
+    "updated_at": "2025-06-10T14:04:59.209Z"
   }
 }
